@@ -1,0 +1,67 @@
+.prvaSlika {
+	width: 350px;
+	background-color: grey;
+	border: 3px solid rgb(62, 65, 62);
+	margin-bottom: 10px;
+}
+.proizvod1 {
+	width: 100%;
+}
+.amg {
+	margin-left: 100px;
+}
+.prviP {
+	margin-left: 124px;
+}
+.buy1 {
+	margin-left: 86px;
+	background-color: black;
+	color: aliceblue;
+	margin-bottom: 5px;
+	padding: 4px 43px 8px 49px;
+}
+
+.drugaSlika {
+	width: 350px;
+	background-color: grey;
+	border: 3px solid rgb(62, 65, 62);
+	margin-bottom: 10px;
+}
+.proizvod2 {
+	width: 100%;
+}
+.ferari {
+	margin-left: 119px;
+}
+.drugiP {
+	margin-left: 124px;
+}
+.buy2 {
+	margin-left: 86px;
+	background-color: black;
+	color: aliceblue;
+	margin-bottom: 5px;
+	padding: 4px 43px 8px 49px;
+}
+.trecaSlika {
+	width: 350px;
+	background-color: grey;
+	border: 3px solid rgb(62, 65, 62);
+	margin-bottom: 10px;
+}
+.proizvod3 {
+	width: 100%;
+}
+.redBull {
+	margin-left: 102px;
+}
+.treciP {
+	margin-left: 124px;
+}
+.buy3 {
+	margin-left: 86px;
+	background-color: black;
+	color: aliceblue;
+	margin-bottom: 5px;
+	padding: 4px 43px 8px 49px;
+}
